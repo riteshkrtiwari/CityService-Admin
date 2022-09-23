@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "947006874227",
+    "project_id": "city-serrvice",
+    "storage_bucket": "city-serrvice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947006874227:android:ecc7f75beda71e68aa0006",
+        "android_client_info": {
+          "package_name": "com.administrator.maintainmore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947006874227-9s9ogs3fijb8l6a5lr8tgsqk70k6rc53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHbSVTYQdsRVWb6TOWbYR7r9CTz_ilQU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947006874227-9s9ogs3fijb8l6a5lr8tgsqk70k6rc53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
